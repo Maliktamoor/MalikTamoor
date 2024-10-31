@@ -1,3 +1,5 @@
+---
+[![](https://visitcount.itsvg.in/api?id=MalikTamoor&icon=2&color=3)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 Experienced React Native Developer with a demonstrated history of<br>     building and leading teams to deliver innovative and user-friendly mobile<br>     applications for both iOS and Android platforms.<br>🌱 Seeking a challenging role where I can utilize my skills and<br>     experience to deliver high-quality and user-friendly mobile apps.<br>👯 Upload apps to both iOS and Android app stores.<br>💬 Solve problems, debug, and test the applications from start-to-end.<br>     Configure the issues from API’s and mentor them to resolve it ..<br>📫 Collaborated with the team to gather requirements and deliver<br>     solutions that meet project goals<br>⚡ Fun fact: I am funny sometimes<br><br><br>
 
@@ -12,7 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MalikTamoor&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikTamoor&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=MalikTamoor&icon=2&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
